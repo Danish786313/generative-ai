@@ -1,0 +1,36 @@
+Course structure
+➤ Section 1 - tools setup
+➤ Section 2-intro to OpenAl for NodeJS
+➤ Sections 3,4 - OpenAl practice - chat project and Tools projects
+➤ Sections 6,7 - Al topics - embeddings, similarity and Vector databases
+➤ Section 8 - Langchain - framework for LLM apps
+➤ Section 9 - Escape from OpenAl - run models locally
+➤ Final section - TypeScript recap
+
+=======================================================================================
+OpenAl models and services
+➤ OpenAl - popular company, good place to start your Al journey
+➤ OpenAl APIs:
+    ➤ Text - text to text - GPT-4, GPT-3.5
+    ➤ Image - text to image - DALL-E
+    ➤ Audio - text to speech, speech to text - Whisper
+    ➤ Sora - text to video
+=======================================================================================
+Introduction and Setup
+➤ Setup the environment and api key
+    ➤ Optional: TS setup
+➤ Introduction to key concepts:
+    ➤ Model
+    ➤ Tokens
+    ➤ Roles
+=======================================================================================
+create an OpenAI key
+initialie a npm project
+    ➤ run our first prompt
+=======================================================================================
+
+OpenAl chat messages roles
+➤ Role
+    ➤ system
+    ➤ user
+    ➤ assistant

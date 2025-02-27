@@ -1,0 +1,6 @@
+```json
+{
+  "coolnessLevel": 8,
+  "answer": "Sure thing, bro! To create a killer marketing plan for your new product, I'll need some details. What type of product is it? Who's your target audience? Any specific goals you have in mind? Let's get this plan rockin'!"
+}
+```

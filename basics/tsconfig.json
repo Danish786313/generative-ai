@@ -1,0 +1,36 @@
+{
+	"compilerOptions": {
+		"target": "es6", // Target JavaScript ES6 features
+        "module": "commonjs", // Use CommonJS modules
+		"rootDir": "./",
+        "outDir": "./dist", // Output directory for compiled JavaScript files
+		"strict": true, // Enable strict type checking
+		"useUnknownInCatchVariables": false,
+		"esModuleInterop": true, // Enable ECMAScript module interoperability
+		"forceConsistentCasingInFileNames": true, // Ensure consistent casing of file names across projects
+		"noImplicitAny": false, // Allow variables to be declared without explicit type annotations
+		"noImplicitThis": false, // Disallow 'this' expressions when not referring to the 'this' keyword within a class or function
+		"noImplicitReturns": false, // Disallow function declarations or expressions to have an implicit 'return' statement with an empty body
+		"noFallthroughCasesInSwitch": false, // Disallow fallthrough cases in switch statements
+		"noUncheckedIndexedAccess": false, // Allow accessing properties of potentially undefined indexes
+		"noUnusedLocals": false, // Report errors on unused local variables
+		"noUnusedParameters": false, // Report errors on unused parameters in functions
+		"noImplicitOverride": true, // Ensure overriding methods are marked with 'override' keyword
+		"moduleResolution": "node", // Use Node.js module resolution strategy
+		"allowSyntheticDefaultImports": true, // Allow importing modules with a 'default' export using ES6-style imports
+		"emitDecoratorMetadata": true, // Emit metadata for decorators in TypeScript classes and methods
+		"experimentalDecorators": true, // Enable experimental support for ES7 decorators
+		"baseUrl": "./", // Base directory to resolve non-relative module names
+		"paths": { // Aliases for module names
+            "@src/*": ["./*"] // Use '@src' as a prefix for importing modules from the'src' directory
+        },
+		"typeRoots": ["./node_modules/@types"], // Directory where TypeScript definitions are located
+		"lib": ["es6", "dom"], // Target JavaScript ES6 features and DOM APIs
+		"skipLibCheck": true, // Skip type checking of all declaration files in node_modules
+		"strictNullChecks": true, // Enable strict null checks in TypeScript
+		"noImplicitUseStrict": false, // Allow using 'use strict' in non-module scripts
+		"allowJs": true, // Allow JavaScript files to be compiled by TypeScript,
+		"checkJs": true, // Enable checking for common JavaScript/TypeScript errors in.js files
+		"resolveJsonModule": true, // Enable importing.json files as modules
+	}
+}
