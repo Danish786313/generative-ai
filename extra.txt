@@ -34,3 +34,36 @@ OpenAl chat messages roles
     ➤ system
     ➤ user
     ➤ assistant
+
+=======================================================================================
+OpenAl Tools
+➤ Chat GTP can't access data in real time
+    ➤ What date is today?
+    ➤ How is the weather outside?
+    ➤ How is the weather outside?
+➤ Solution: OpenAl tools (functions)
+    ➤ newer models can invoke functions
+➤ New possibilities:
+    ➤ Access data in real time
+    ➤ Modify data
+    ➤ Act like a real Al assistant (not limited by it's training data)
+
+    ➤ How is the weather outside?
+➤ Solution: OpenAl tools (functions)
+➤ newer models can invoke functions
+➤ New possibilities:
+➤ Access data in real time
+➤ Modify data
+➤ Act like a real Al assistant (not limited by it's training data)
+
+=================================================================================
+
+Other OpenAl models and APIS
+➤ OpenAl is more than Chat GPT
+➤ Image models:
+    ➤ DALL-E 2
+    ➤ DALL-E 3
+➤ Text models:
+    ➤ Whisper
+    ➤ TTS
+    ➤ TTS-HD
