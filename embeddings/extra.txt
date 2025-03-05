@@ -1,0 +1,36 @@
+Embeddings:
+    ➤ What they are and why we need them
+    ➤ Change gears: more "geeky" section
+    ➤ OpenAl embeddings
+    ➤ Similarity
+    ➤ Project: movie recommendation system
+
+concepts:
+    embedding
+    similarities
+    dot product
+    cosine similarities
+
+Embeddings - [0.2, 0.123, 0, -0.4, 1]
+    ➤ The key to Al
+    ➤ Numerical representation of data: text, images, sound
+    ➤ Text embedding - numerical representation of text
+    ➤ Take the form of numbers array (vector)
+    ➤ Embedding (latent) space - a space in which similar items are positioned 
+	   closer to one another than less similar items
+       [0.2, 0.123, 0, -0.4, 1]
+
+
+
+Embedding models
+    ➤ Def: set of algorithms trained to generate embeddings
+    ➤ OpenAl:
+        ➤ text-embedding-3-small
+        ➤ text-embedding-3-large
+        ➤ text-embedding-ada-002 (old)
+     ➤ Others:
+        - UAE-Large-V1
+        - bge-base-en-v1.5
+    ➤ Why we need embeddings: similarity search
+        ➤ Recommendation systems
+        ➤ Basic chat functionality
