@@ -1,0 +1,17 @@
+LangChain:
+    ➤ LangChain is a framework for developing applications powered by language models
+    ➤ Very popular lately - for Python and TypeScript
+    ➤ Build small apps
+    ➤ Integrate it with external data sources and vector DBs (Chroma DB)
+
+
+==========================================================================================
+
+What is LangChain?
+➤ Framework for building LLM based applications
+    ➤ Fairly new, very popular
+➤ LangChain Libraries:
+    ➤ Interfaces and integrations for components
+➤ Implement abstractions:
+    ➤ Chains - chain commands
+    ➤ Agents - use an LLM to make decisions
