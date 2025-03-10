@@ -1,0 +1,51 @@
+Vector databases:
+➤ What they are and why we need them
+➤ Learn about 2 vector databases:
+    ➤ Chroma - open source, run locally
+    ➤ Pinecone - managed - requires account
+➤ Requirement:
+    ➤ Chroma: Python/Docker installed
+    ➤ Pinecone: Pinecone account
+=========================================================================== 
+Vector databases:
+    ➤ App we will build:
+        ➤ Data retriever app - "chat with your data"
+        ➤ Store data into a vector DB
+        ➤ Ask a question
+        ➤ Query the DB for the most relevant data
+        ➤ Use the relevant data and OpenAl api to answer a question
+
+===========================================================================
+
+Al application challenge
+➤ Efficient data processing
+➤ Vector databases solve this problem
+➤ Popular vector databases:
+    ➤ Pinecone
+    ➤ Chroma
+    ➤ Weaviate
+    ➤ Redis
+    ➤ Postgre SQL - PG vector extension
+    ➤ Milvus
+
+===========================================================================
+Vector Databases
+➤ Specialized databases for storing vectors
+➤ Special feature vs traditional databases: the way we query:
+    ➤ SQL: query based on values match
+    ➤ Vector: query based on similarity
+➤ Vector db:
+    ➤ Holds data + embeddings
+    ➤ Uses an embedding as query parameter
+➤ Vector databases use a combination of different optimized
+    algorithms - Approximate Nearest Neighbor search
+
+===========================================================================
+Chroma database:
+   ➤ Open source vector database
+   ➤ written in Python
+     Can be run in Python or on Docker
+➤ Requirement: Python or Docker
+> Docker
+➤ Poor documentation for JS
+===========================================================================

@@ -34,3 +34,11 @@ Embedding models
     ➤ Why we need embeddings: similarity search
         ➤ Recommendation systems
         ➤ Basic chat functionality
+
+
+=======================================================================================
+Assignment:
+Movie recommender project
+    ➤ List of movie titles with descriptions input
+    ➤ The user inputs some preferences about movies
+    ➤ The system will recommend some movies

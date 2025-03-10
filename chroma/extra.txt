@@ -1,0 +1,16 @@
+Embeddings app
+    ➤ Vector DB:
+    ➤ Store embeddings
+➤ Query based on embeddings - similarity search
+    ➤ Query > most relevant result
+    ➤ Context injection - provide OpenAl with relevant context for a question and use it
+
+
+============================================================================================
+Chat with your data app structure:
+    ➤ Starting point: relevant info about a private topic
+    ➤ Break the data into chucks
+    - Store thern (with embeddings) inside a vector DB
+    ➤ Ask a question - DB query
+    ➤ Use similarity search to find the most relevant chunk
+    ➤ Use OpenAl to properly answer the question

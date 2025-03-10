@@ -1,0 +1,9 @@
+Pinecone database:
+    ➤ Managed database - we don't handle the infrastructure
+        ➤ Users can launch, operate, and expand their Al solutions without the need for any 
+           infrastructure maintenance, service monitoring, or algorithm troubleshooting.
+    ➤ Metadata support
+    ➤ New: serverless option - pay on demand
+    ➤ Requirement:
+        ➤ Pinecone account
+        ➤ Large free tier - require card info

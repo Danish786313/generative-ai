@@ -5,12 +5,14 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon -r ts-node/register --env-file=.env audio/index.js"
+    "start": "nodemon -r ts-node/register --env-file=.env chroma/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chromadb": "^1.10.5",
+    "dotenv": "^16.4.7",
     "openai": "^4.85.4",
     "tiktoken": "^1.0.20"
   },
