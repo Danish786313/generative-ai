@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon -r ts-node/register --env-file=.env langchain/index.js"
+    "start": "nodemon -r ts-node/register --env-file=.env langchain/rag/index.js"
   },
   "keywords": [],
   "author": "",

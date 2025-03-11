@@ -15,3 +15,15 @@ What is LangChain?
 ➤ Implement abstractions:
     ➤ Chains - chain commands
     ➤ Agents - use an LLM to make decisions
+
+==========================================================================================
+
+Retrieval-Augmented Generation
+
+    ➤ Retrieval-Augmented Generation (RAG) is the process of optimizing the 
+       output of a large language model, so it references an authoritative 
+       knowledge base outside of its training data sources before generating 
+       a response
+    ➤ RAG extends the already powerful capabilities of LLMs to specific 
+       domains or an organization's internal knowledge base, all without the 
+       need to retrain the model

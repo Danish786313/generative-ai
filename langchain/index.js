@@ -21,7 +21,7 @@ async function main() {
     for await (const chunk of response3) {
         // console.log(chunk.response_metadata)
         console.log(chunk.content)
-        console.log(chunk)
+        // console.log(chunk)
     }
 }
 
