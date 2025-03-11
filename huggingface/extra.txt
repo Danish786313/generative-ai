@@ -1,0 +1,13 @@
+Escape from Open Al
+➤ Is there a cheaper or better way to generate embeddings, text, images, audio?
+➤ Is there a self hosted solution?
+➤ Maybe we don't want to depend on an external source
+    ➤ Avoid vendor lock-in
+    ➤ Offline
+    ➤ Use better models
+
+=================================================================================
+There are many solutions
+➤ Explore open source models - Hugging Face
+➤ First lectures - use the Hugging Face API
+➤ Later lectures - download and run locally models for embeddings, text, audio ...
