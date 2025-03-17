@@ -66,7 +66,7 @@ async function textToImage() {
     console.log('File saved')
 }
 
-textToImage()
+// textToImage()
 // answerQuestion()
 // translate2()
 // translate()
